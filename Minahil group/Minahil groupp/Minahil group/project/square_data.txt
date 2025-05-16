@@ -1,0 +1,5 @@
+position = r 
+outline color = 4 
+fill color = 2 
+symbol = * 
+size = 6 

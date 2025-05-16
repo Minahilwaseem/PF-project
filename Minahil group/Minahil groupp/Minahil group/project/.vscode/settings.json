@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "existingfile.h": "c",
+        "savingfile.h": "c",
+        "clearingfile.h": "c",
+        "paint.h": "c",
+        "interface_header.h": "c"
+    }
+}

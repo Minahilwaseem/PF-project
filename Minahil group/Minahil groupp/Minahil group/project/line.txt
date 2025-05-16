@@ -1,0 +1,5 @@
+position = l 
+outline color = 0 
+fill color = 5 
+symbol = * 
+size (number of rows) = 6 

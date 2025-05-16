@@ -1,0 +1,5 @@
+position = l 
+outline color = 6 
+fill color = 4 
+symbol = * 
+size = 7 
